@@ -1,1 +1,1 @@
-# html-css-js-project
+# calculator-project
